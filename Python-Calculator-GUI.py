@@ -6,7 +6,7 @@ import json
 import os
 
 # Author: Zedric | Github @Okay633
-# Advanced Calculator with custom functions and error handling.
+# Calculator with custom functions and error handling.
 # This calculator supports trigonometric functions, logarithms, and advanced mathematical operations.
 # It also includes error handling, clipboard functionality, and expression history.
 
